@@ -1,0 +1,6 @@
+credential
+secrets
+__pycache__
+__DS_Store__
+*.docx
+*.pdf
